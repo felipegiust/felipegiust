@@ -1,6 +1,4 @@
 
-<img width="100%"  src="https://capsule-render.vercel.app/api?type=waving&height=110&color=238636&textBg=false"/>
-
 <div align="center" >
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=238636&center=true&multiline=true&repeat=false&width=435&height=40&lines=Hello+World!+I'm+Felipe" alt="Typing SVG" />
