@@ -1,12 +1,54 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px" /> Hello, World! , I'm Felipe </h1>
+
+<img width="100%"  src="https://capsule-render.vercel.app/api?type=waving&height=110&color=238636&textBg=false"/>
+
+<div align="center" >
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=238636&center=true&multiline=true&repeat=false&width=435&height=40&lines=Hello+World!+I'm+Felipe" alt="Typing SVG" />
+</div>
+
+##
+
 <h3 align="center">Full stack developer from Brazil</h3>
 
 
 
 <div align="center">
+
+  <table>
+    <tr>
+      <td>
+        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=felipegiust&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
+      </td>
+      <td>
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipegiust&langs_count=10&theme=dark&layout=donut&hide_border=true" />
+      </td>
+      <td>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=felipegiust&theme=dark&utcOffset=8" />
+      </td>
+    </tr>
+  </table>
+  <table>
+    <tr>
+      <td>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipegiust&theme=dark" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=felipegiust&theme=dark&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+<div align="center">
   <a href="https://github.com/felipegiust">
-    <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=felipegiust&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipegiust&langs_count=10&theme=dracula&layout=donut"/>
+    <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=felipegiust&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipegiust&langs_count=10&theme=dark&layout=donut"/>
+    <img height="180em"  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipegiust&theme=dark"/>
+    <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com?user=felipegiust&theme=dark&hide_border=true"/>
+
+  ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipegiust&show_icons=true&theme=radical)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=felipegiust&theme=radical)](https://git.io/streak-stats)
   </a>
 </div>
 
@@ -60,6 +102,8 @@
 ##
    
 <div> 
+  
+
   <a href="https://www.instagram.com/machadogiusti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-machado-giusti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div> 
